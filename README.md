@@ -127,3 +127,6 @@ If you want, I can provide a **flowchart**, **documentation**, or a
 **PDF** version of this README!
  ## output
  
+![image alt](https://github.com/nihar5662-code/c-project/blob/0fccf7d8f41ddf8a18b70e3f94b63e734b1b26b3/Screenshot%202025-11-28%20131540.png)
+![image alt](https://github.com/nihar5662-code/c-project/blob/0fccf7d8f41ddf8a18b70e3f94b63e734b1b26b3/Screenshot%202025-11-28%20131540.png)
+![image alt](https://github.com/nihar5662-code/c-project/blob/0fccf7d8f41ddf8a18b70e3f94b63e734b1b26b3/Screenshot%202025-11-28%20131540.png)
